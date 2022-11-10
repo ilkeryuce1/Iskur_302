@@ -1,0 +1,16 @@
+C:\Users\ilker\Desktop\SmartPro\Ogrenci_Kayıt_Otomasyonu\Ogrenci_Kayıt_Otomasyonu\bin\Debug\Ogrenci_Kayıt_Otomasyonu.exe.config
+C:\Users\ilker\Desktop\SmartPro\Ogrenci_Kayıt_Otomasyonu\Ogrenci_Kayıt_Otomasyonu\bin\Debug\Ogrenci_Kayıt_Otomasyonu.exe
+C:\Users\ilker\Desktop\SmartPro\Ogrenci_Kayıt_Otomasyonu\Ogrenci_Kayıt_Otomasyonu\bin\Debug\Ogrenci_Kayıt_Otomasyonu.pdb
+C:\Users\ilker\Desktop\SmartPro\Ogrenci_Kayıt_Otomasyonu\Ogrenci_Kayıt_Otomasyonu\obj\Debug\Ogrenci_Kayıt_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\SmartPro\Ogrenci_Kayıt_Otomasyonu\Ogrenci_Kayıt_Otomasyonu\obj\Debug\Ogrenci_Kayıt_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\SmartPro\Ogrenci_Kayıt_Otomasyonu\Ogrenci_Kayıt_Otomasyonu\obj\Debug\Ogrenci_Kayıt_Otomasyonu.Properties.Resources.resources
+C:\Users\ilker\Desktop\SmartPro\Ogrenci_Kayıt_Otomasyonu\Ogrenci_Kayıt_Otomasyonu\obj\Debug\Ogrenci_Kayıt_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\SmartPro\Ogrenci_Kayıt_Otomasyonu\Ogrenci_Kayıt_Otomasyonu\obj\Debug\Ogrenci_Kayıt_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\SmartPro\Ogrenci_Kayıt_Otomasyonu\Ogrenci_Kayıt_Otomasyonu\obj\Debug\Ogrenci_Kayıt_Otomasyonu.exe
+C:\Users\ilker\Desktop\SmartPro\Ogrenci_Kayıt_Otomasyonu\Ogrenci_Kayıt_Otomasyonu\obj\Debug\Ogrenci_Kayıt_Otomasyonu.pdb
+C:\Users\ilker\Desktop\SmartPro\Ogrenci_Kayıt_Otomasyonu\Ogrenci_Kayıt_Otomasyonu\obj\Debug\Ogrenci_Kayıt_Otomasyonu.Form1.resources
+C:\Users\ilker\Desktop\SmartPro\Ogrenci_Kayıt_Otomasyonu\Ogrenci_Kayıt_Otomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\ilker\Desktop\SmartPro\Ogrenci_Kayıt_Otomasyonu\Ogrenci_Kayıt_Otomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilker\Desktop\SmartPro\Ogrenci_Kayıt_Otomasyonu\Ogrenci_Kayıt_Otomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\ilker\Desktop\SmartPro\Ogrenci_Kayıt_Otomasyonu\Ogrenci_Kayıt_Otomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilker\Desktop\SmartPro\Ogrenci_Kayıt_Otomasyonu\Ogrenci_Kayıt_Otomasyonu\obj\Debug\Ogrenci_Kayıt_Otomasyonu.csproj.CopyComplete
